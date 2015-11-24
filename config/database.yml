@@ -1,0 +1,9 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  host: localhost
+  database: office365
+  username: postgres
+  password: admin123
+  pool: 5
+  timeout: 5000
